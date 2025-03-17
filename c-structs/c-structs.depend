@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742218881 source:c:\users\mohsen_bashashi\documents\github\c-structs\c-structs\main.c
+	<stdio.h>
+	<stdlib.h>
+
